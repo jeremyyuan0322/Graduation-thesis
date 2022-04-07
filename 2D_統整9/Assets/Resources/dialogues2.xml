@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+    <dialogue>
+        <role>A</role>
+        <detail>哇！他們靠過來了！</detail>
+    </dialogue>
+    <dialogue>
+        <role>B</role>
+        <detail>！！！</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>怎麼辦？後面看起來沒有退路了。</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>哇喔！他們又更靠近了...</detail>
+    </dialogue>
+</dialogues>

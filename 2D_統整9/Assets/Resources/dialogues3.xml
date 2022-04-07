@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+    <dialogue>
+        <role>A</role>
+        <detail>太近了阿！這都可以看到他們的玉米鬚了。</detail>
+    </dialogue>
+    <dialogue>
+        <role>B</role>
+        <detail>你們要為了人類的惡行付出代價！！！</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>(不然就扯他們的玉米鬚好了...？)</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>...？？</detail>
+    </dialogue>
+</dialogues>

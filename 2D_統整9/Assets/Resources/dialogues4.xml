@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+    <dialogue>
+        <role>A</role>
+        <detail>好像比想像中的還要輕鬆。</detail>
+    </dialogue>
+    <dialogue>
+        <role>B</role>
+        <detail>....</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>至少目前脫離險境了。</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>(試玩新手教學到此結束。)</detail>
+    </dialogue>
+</dialogues>

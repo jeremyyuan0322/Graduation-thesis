@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - TileMap
+  - Infantry
+  - Monster
+  - System
+  - Bullet_B
+  - Bullet_A
+  - Bomb
+  - Monster_Col1
+  - Monster_Col2
+  - Energy
+  - Monster_Col3
+  - Monster_Col4
+  - Monster_Col5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1085587105
+    locked: 0
+  - name: TalkUI
+    uniqueID: 32853865
+    locked: 0

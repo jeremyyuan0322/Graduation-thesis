@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+    <dialogue>
+        <role>A</role>
+        <detail>哇！那是看起來好壞的玉米。</detail>
+    </dialogue>
+    <dialogue>
+        <role>B</role>
+        <detail>人類...納命來！真是條醜狗！</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>哇...怎麼辦？後面看起來沒有退路了。</detail>
+    </dialogue>
+    <dialogue>
+        <role>B</role>
+        <detail>跑也來不及啦！哈哈哈！</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>哇喔！他衝過來了！！</detail>
+    </dialogue>
+</dialogues>
