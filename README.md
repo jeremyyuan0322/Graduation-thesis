@@ -1,4 +1,4 @@
-# Graduation-topics
+# Graduation-thesis
 
 ![image](https://github.com/jeremyyuan0322/Graduation-topics/blob/master/img/%E6%8A%95%E5%BD%B1%E7%89%876.JPG)
 
